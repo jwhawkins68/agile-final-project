@@ -1,6 +1,6 @@
 ---
 name: User story
-about: Describe a product catalog requirement
+about: E-commerce product catalog Agile final project. Use the Final Project view for the ten catalog stories; earlier counter-service lab stories are retained in other views.
 title: ""
 labels: ""
 assignees: ""
